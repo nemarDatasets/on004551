@@ -1,0 +1,40 @@
+{
+  "version": "2.0",
+  "dataset_id": "on004551",
+  "source": "openneuro",
+  "source_id": "ds004551",
+  "title": "iEEG on children during slow wave sleep\n",
+  "authors": {
+    "Kazuki Sakakura": {},
+    "Naoto Kuroda": {},
+    "Masaki Sonoda": {},
+    "Takumi Mitsuhashi": {},
+    "Ethan Firestone": {},
+    "Aimee F. Luat": {},
+    "Neena I. Marupudi": {},
+    "Sandeep Sood": {},
+    "Eishi Asano": {}
+  },
+  "license": "CC0",
+  "dataset_type": "raw",
+  "related_identifiers": [
+    {
+      "identifier": "10.18112/openneuro.ds004551.v1.0.6",
+      "identifier_type": "DOI",
+      "relation_type": "IsIdenticalTo"
+    }
+  ],
+  "pipeline_stage": "seeded",
+  "bids_version": "1.7.0",
+  "recording_modality": [
+    "ieeg"
+  ],
+  "datatypes": [
+    "ieeg"
+  ],
+  "funding_references": [
+    {
+      "funder_name": "N/A"
+    }
+  ]
+}
