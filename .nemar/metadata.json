@@ -1,8 +1,8 @@
 {
   "version": "2.0",
-  "pipeline_stage": "validated",
+  "pipeline_stage": "enriched",
   "title": "iEEG on children during slow wave sleep\n",
-  "description": "This dataset comprises intracranial electroencephalography (iEEG) recordings from 114 pediatric subjects during slow wave sleep. The collection includes raw iEEG data with electrode coordinates registered to the MNI305 stereotactic space, supporting investigations of neural activity patterns and high-frequency oscillations during sleep in children. This is a curated version of OpenNeuro ds004551.v1.0.6.",
+  "description": "This dataset comprises intracranial electroencephalography (iEEG) recordings from 114 pediatric subjects during slow wave sleep. The collection includes raw iEEG data with electrode coordinates registered to the MNI305 stereotactic space, supporting investigations of neural activity patterns and high-frequency oscillations during sleep in children.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -36,10 +36,10 @@
       "term": "sleep neurophysiology"
     },
     {
-      "term": "MNI305"
+      "term": "epilepsy"
     },
     {
-      "term": "electrode coordinates"
+      "term": "clinical evaluation"
     }
   ],
   "related_identifiers": [
