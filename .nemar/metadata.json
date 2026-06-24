@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "dataset_id": "on004551",
-  "source": "openneuro",
-  "source_id": "ds004551",
+  "pipeline_stage": "enriched",
   "title": "iEEG on children during slow wave sleep\n",
+  "license": "CC0",
+  "dataset_type": "raw",
   "authors": {
     "Kazuki Sakakura": {},
     "Naoto Kuroda": {},
@@ -15,26 +15,76 @@
     "Sandeep Sood": {},
     "Eishi Asano": {}
   },
-  "license": "CC0",
-  "dataset_type": "raw",
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds004551.v1.0.6",
       "identifier_type": "DOI",
       "relation_type": "IsIdenticalTo"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/on004551",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=on004551",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.18112/openneuro.ds004551",
+      "identifier_type": "DOI",
+      "relation_type": "IsVersionOf"
     }
-  ],
-  "pipeline_stage": "seeded",
-  "bids_version": "1.7.0",
-  "recording_modality": [
-    "ieeg"
-  ],
-  "datatypes": [
-    "ieeg"
   ],
   "funding_references": [
     {
       "funder_name": "N/A"
+    },
+    {
+      "funder_name": "Not funded"
     }
-  ]
+  ],
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "ieeg"
+  ],
+  "resource_type_specific": "iEEG Dataset",
+  "sizes": [
+    "0.0 KB (1 files)"
+  ],
+  "formats": [
+    ".edf",
+    ".json",
+    ".md",
+    ".tsv"
+  ],
+  "description": "This dataset comprises intracranial electroencephalography (iEEG) recordings from 114 pediatric individuals during slow wave sleep. The collection includes raw iEEG data with electrode coordinates in MNI305 stereotactic space, supporting investigations of neural activity patterns and high-frequency oscillations during sleep in children. Associated Matlab analysis code is publicly available at https://github.com/kaz1126/MI_HFO to facilitate reproducible research.",
+  "keywords": [
+    {
+      "term": "iEEG"
+    },
+    {
+      "term": "intracranial electroencephalography"
+    },
+    {
+      "term": "slow wave sleep"
+    },
+    {
+      "term": "sleep"
+    },
+    {
+      "term": "pediatric"
+    },
+    {
+      "term": "high-frequency oscillations"
+    },
+    {
+      "term": "electrode coordinates"
+    },
+    {
+      "term": "MNI305"
+    }
+  ],
+  "source_hash": "20292572b055a1dbf9c6012c5841dfe587b306a1bbc9881cc50e22ef55b3062d"
 }
