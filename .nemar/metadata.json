@@ -1,8 +1,8 @@
 {
   "version": "2.0",
-  "pipeline_stage": "enriched",
+  "pipeline_stage": "validated",
   "title": "iEEG on children during slow wave sleep\n",
-  "description": "This dataset comprises intracranial electroencephalography (iEEG) recordings from 114 pediatric subjects during slow wave sleep. The collection includes raw iEEG data with electrode coordinates registered to the MNI305 stereotactic space, supporting investigations of neural activity patterns and high-frequency oscillations during sleep in children.",
+  "description": "This dataset contains intracranial EEG (iEEG) recordings acquired from 114 children during slow wave sleep, curated for use in a forthcoming manuscript by Sakakura et al. Electrode coordinates are provided in the MNI305 coordinate system, facilitating cross-subject spatial analyses. The dataset supports investigations into neural dynamics during sleep in pediatric populations undergoing intracranial monitoring.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -18,38 +18,26 @@
   },
   "keywords": [
     {
-      "term": "iEEG"
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
     },
     {
-      "term": "intracranial electroencephalography"
+      "term": "intracranial EEG"
     },
     {
       "term": "slow wave sleep"
     },
     {
-      "term": "high-frequency oscillations"
+      "term": "pediatric epilepsy"
     },
     {
-      "term": "pediatric"
-    },
-    {
-      "term": "sleep neurophysiology"
-    },
-    {
-      "term": "epilepsy"
-    },
-    {
-      "term": "clinical evaluation"
+      "term": "MNI305 coordinate system"
     }
   ],
   "related_identifiers": [
     {
       "identifier": "https://github.com/nemarDatasets/on004551",
-      "identifier_type": "URL",
-      "relation_type": "IsDescribedBy"
-    },
-    {
-      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=on004551",
       "identifier_type": "URL",
       "relation_type": "IsDescribedBy"
     },
@@ -62,6 +50,11 @@
       "identifier": "10.18112/openneuro.ds004551.v1.0.6",
       "identifier_type": "DOI",
       "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/on004551",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
     }
   ],
   "funding_references": [
