@@ -1,0 +1,5 @@
+{
+  "iEEGCoordinateSystem": "MNI305",
+  "iEEGCoordinateUnits": "mm",
+  "iEEGCoordinateSystemDescription": "MNI305 (FreeSurfer standard brain / fsaverage space)."
+}
