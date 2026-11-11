@@ -1,0 +1,18 @@
+name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch	status	status_description
+A2	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+A3	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+A4	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+A5	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+A6	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+A7	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+A8	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+A9	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+A10	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+A49	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	spiking
+A50	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
+A51	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
+A52	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
+A53	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+A54	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+A55	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+A56	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact

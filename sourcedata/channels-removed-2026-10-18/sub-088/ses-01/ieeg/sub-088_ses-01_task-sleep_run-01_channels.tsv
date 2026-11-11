@@ -1,0 +1,13 @@
+name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch	status	status_description
+A53	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	n/a
+A54	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	n/a
+A55	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	n/a
+A56	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	n/a
+A57	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	n/a
+A58	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	n/a
+A59	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	n/a
+A60	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	n/a
+A61	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	n/a
+A62	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	n/a
+A63	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	n/a
+A64	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	n/a
