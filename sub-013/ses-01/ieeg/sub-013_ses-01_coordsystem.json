@@ -1,0 +1,7 @@
+{
+  "iEEGCoordinateSystem": "fsaverage",
+  "iEEGCoordinateSystemDescription": "fsaverage template space. Authors' term: README 'MNI305'.",
+  "iEEGCoordinateUnits": "mm",
+  "iEEGCoordinateProcessingDescription": "Computed by NEMAR (ieeg-geometry 0.1.0): coordinate frame of sub-013/ses-01/ieeg/sub-013_ses-01_electrodes.tsv labeled fsaverage; evidence: README 'MNI305'; contacts: ecog 112 contacts (median 0.67 mm, 90th percentile 1.06 mm, specific); reference surface: fsaverage; grade specific; source file sub-013/ses-01/ieeg/sub-013_ses-01_electrodes.tsv. Units assumed mm, confirmed by the fit.",
+  "iEEGCoordinateProcessingReference": "https://docs.nemar.org/data/ieeg-geometry/"
+}
